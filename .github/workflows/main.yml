@@ -41,7 +41,8 @@ jobs:
           testMode: ${{ matrix.testMode }}
           artifactsPath: ${{ matrix.testMode }}-artifacts
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          checkName: ${{ matrix.testMode }} Test Results          
+          checkName: ${{ matrix.testMode }} Test Results
+          unityVersion: 6000.1.2f1
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -79,6 +80,7 @@ jobs:
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
+          unityVersion: 6000.1.2f1
       - uses: actions/upload-artifact@v4
         with:
           name: Build-${{ matrix.targetPlatform }}
