@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 195dd4c95e451b64db973d64c32214d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7534698187716098537
+    second: CharacterRighthHold_0
+  - first:
+      213: 5233878556800252161
+    second: CharacterRighthHold_1
+  - first:
+      213: 3496993585958738311
+    second: CharacterRighthHold_2
+  - first:
+      213: -8901339871876836356
+    second: CharacterRighthHold_3
+  - first:
+      213: -8772429069737067649
+    second: CharacterRighthHold_4
+  - first:
+      213: -4816980900868089060
+    second: CharacterRighthHold_5
+  - first:
+      213: -3723595531757232508
+    second: CharacterRighthHold_6
+  - first:
+      213: -3203421642396717443
+    second: CharacterRighthHold_7
+  - first:
+      213: -2737077066727560339
+    second: CharacterRighthHold_8
+  - first:
+      213: -1182848335287773730
+    second: CharacterRighthHold_9
+  - first:
+      213: 5937432200331394941
+    second: CharacterRighthHold_10
+  - first:
+      213: -2861440459173309913
+    second: CharacterRighthHold_11
+  - first:
+      213: -8605590318456216456
+    second: CharacterRighthHold_12
+  - first:
+      213: -917948978968500613
+    second: CharacterRighthHold_13
+  - first:
+      213: -1115141533286911105
+    second: CharacterRighthHold_14
+  - first:
+      213: 3256483676963830991
+    second: CharacterRighthHold_15
+  - first:
+      213: -8286293178645056227
+    second: CharacterRighthHold_16
+  - first:
+      213: -5886677069110276025
+    second: CharacterRighthHold_17
+  - first:
+      213: 1256725061150247021
+    second: CharacterRighthHold_18
+  - first:
+      213: -4823179909741023866
+    second: CharacterRighthHold_19
+  - first:
+      213: -1574326239719748525
+    second: CharacterRighthHold_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterRighthHold_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 853
+        width: 145
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71607673bef5f6790800000000000000
+      internalID: -7534698187716098537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 863
+        width: 151
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109fc9f21d872a840800000000000000
+      internalID: 5233878556800252161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_2
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 864
+        width: 182
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789d3e87321d78030800000000000000
+      internalID: 3496993585958738311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_3
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 854
+        width: 181
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf392cf3c86187480800000000000000
+      internalID: -8901339871876836356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_4
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 855
+        width: 180
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf2094d32124680800000000000000
+      internalID: -8772429069737067649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 439
+        width: 158
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9ae16465a62db0800000000000000
+      internalID: -4816980900868089060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 438
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ed062a791235cc0800000000000000
+      internalID: -3723595531757232508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 439
+        width: 168
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e252b1df82b83d0800000000000000
+      internalID: -3203421642396717443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_8
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 441
+        width: 145
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be5d2d8e2f30ad0800000000000000
+      internalID: -2737077066727560339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_9
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 442
+        width: 145
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed59200c4bda59fe0800000000000000
+      internalID: -1182848335287773730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_10
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 444
+        width: 168
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff7bad02ff56250800000000000000
+      internalID: 5937432200331394941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 25
+        width: 164
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225b0d101f1a48d0800000000000000
+      internalID: -2861440459173309913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87460e1233dc29880800000000000000
+      internalID: -8605590318456216456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 23
+        width: 179
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7666a2644ac243f0800000000000000
+      internalID: -917948978968500613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 25
+        width: 194
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73362a0fa83680f0800000000000000
+      internalID: -1115141533286911105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_15
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 24
+        width: 145
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc794e86aa513d20800000000000000
+      internalID: 3256483676963830991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_16
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 23
+        width: 145
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157e16b14c210d80800000000000000
+      internalID: -8286293178645056227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 154
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409e3405625e4ea0800000000000000
+      internalID: -5886677069110276025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 23
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d680132e8c8c07110800000000000000
+      internalID: 1256725061150247021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_19
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 27
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de5182d6f901db0800000000000000
+      internalID: -4823179909741023866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterRighthHold_20
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 23
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8de840aed62ae0800000000000000
+      internalID: -1574326239719748525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

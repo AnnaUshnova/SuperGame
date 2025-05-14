@@ -1,3 +1,4 @@
+# Удалите правило *.meta
 # Unity generated files
 [Ll]ibrary/
 [Tt]emp/
@@ -24,9 +25,6 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-
-# Unity3D generated meta files
-*.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
